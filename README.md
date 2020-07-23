@@ -1,1 +1,3 @@
-# study for Machine Learning 
+# Study for Machine Learning 
+
+Machine learning documentary
