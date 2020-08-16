@@ -7,7 +7,12 @@ author : Lee Chungpa
 # Machine learning documentary
 
 
-1. [scikitlearn](https://github.com/leechungpa/machine_learning/tree/master/sklearn)
+1. [scikit learn](sklearn/)
 
+1. [tensorflow](tensorflow/)
 
-1. [tensorflow](https://github.com/leechungpa/machine_learning/tree/master/tensorflow)
+1. [연관법칙 : apyori](association_rule/apyori.html)
+
+1. [이론](theory/)
+
+1. [spark](spark/)
